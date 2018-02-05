@@ -11,4 +11,3 @@ namespace AndersonNotificationModel
         public string Body { get; set; }
     }
 }
-    

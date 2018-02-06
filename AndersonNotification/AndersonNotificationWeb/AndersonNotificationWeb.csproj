@@ -624,7 +624,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="bower_components\pnotify\libtests\requirejs\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\BaseApi\" />
     <Folder Include="Views\Base\" />
   </ItemGroup>
   <ItemGroup>
